@@ -1,0 +1,8 @@
+.bg-darkblue {
+    background-color: steelblue;
+    color: black; /* Optionally, you can adjust the text color */
+  }
+  .bg-dark {
+  background-color: darkgrey;
+  color: white; /* Optionally, you can adjust the text color */
+}
